@@ -24,3 +24,16 @@ Professional dashboard for developers to test APIs and tools in one place.
 
 ```bash
 git clone https://github.com/yourusername/developer-tools-hub.git
+
+2. Install required packages:
+
+
+```bash
+pip install streamlit yfinance requests
+
+
+3.Run the app:
+
+
+```bash
+streamlit run dashboard.py
